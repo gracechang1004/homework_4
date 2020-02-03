@@ -185,12 +185,13 @@ header p{
 
   .about, .clients, .method-image, .contact-image{
   /*Your code here */
-    grid-column: 3 / span ;
+    grid-column: 3 / span 2;
   /* See documentation for desktop view */ 
   }
 
   .about-image, .clients-image, .method, .contact{
     /*Your code here */
+    grid-column: 2 / span 2;
     /* See documentation for desktop view */ 
     }
 
