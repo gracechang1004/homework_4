@@ -207,6 +207,6 @@ header p{
     -webkit-transition: none;
     transition: none;
     position: absolute;
-    margin-bottom: 40px;
+    margin-top: 40px;
   }
 }
