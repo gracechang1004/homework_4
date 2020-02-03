@@ -48,7 +48,7 @@ nav a:hover{
   /*Your code here - position relative to the parent */
   position: absolute;
   /*Your code here - place 40px higher */;
-  top:40px;
+  bottom:40px;
 }
 
 /*Your code here*/
