@@ -114,7 +114,7 @@ header p{
 }
 .about, .method, .clients, .contact{
   /*Your code here */
-  grid-column: 1 / -1;
+  grid-column: 2 / span 1;
   /* See documentation for mobile view */
 
 }
@@ -131,6 +131,7 @@ header p{
   /*Your code here */
   grid-row: 3 / span 1;
   /* See documentation for mobile view */
+
 }
 
 .method, .method-image{
