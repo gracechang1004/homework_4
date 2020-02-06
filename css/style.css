@@ -166,7 +166,7 @@ header p{
   /*Your code here:*/
   /*Align the content in the center */
   margin: auto;
-  text-align: center;
+  text-align: left;
 }
 
 
